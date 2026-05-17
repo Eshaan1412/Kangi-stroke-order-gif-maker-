@@ -23,5 +23,5 @@ Instead of relying on pre-rendered raster sets, this engine dynamically interfac
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/kanji-motion.git](https://github.com/yourusername/kanji-motion.git)
+   git clone [https://github.com/Eshaan1412/kanji-motion.git](https://github.com/Eshaan1412/kanji-motion.git)
    cd kanji-motion
